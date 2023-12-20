@@ -14,6 +14,7 @@ Aquí se podrá ir viendo la evolución del desarrollo del reporitorio al igual 
 - [x] Inicio del repositorio 🏃‍♂️
 - [x] Desarrollo de la versión inicial del software 💻
 - [ ] Extracción de todos los datos de vivienda 🏠
+- [ ] Creación del documento y la consulta vía API
 - [ ] Mejora del software
 
 ## Cómo utilizar el software 🤓☝️

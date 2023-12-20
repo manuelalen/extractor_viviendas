@@ -1,5 +1,5 @@
 # Extractor de viviendas
-**Descripción: ** Software básico en Python para la extracción de las viviendas en régimen en alquiler en idealista
+**Descripción:** Software básico en Python para la extracción de las viviendas en régimen en alquiler en idealista
 
 > [!CAUTION]
 > Este repositorio está aún en construcción. El código mostrado al igual que cualquier otro documento aquí contenido, es temporal y sometido a grandes cambios.
